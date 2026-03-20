@@ -35,7 +35,7 @@
   "variants": [
     {
       "size": "34",
-      "stock": 20,
+      "stock": 19,
       "_id": {
         "$oid": "68eded8fb066350ecedbb856"
       }
@@ -84,9 +84,10 @@
     "$date": "2025-10-14T06:28:31.744Z"
   },
   "updatedAt": {
-    "$date": "2025-10-14T06:28:31.744Z"
+    "$date": "2026-01-24T04:14:33.636Z"
   },
-  "__v": 0
+  "__v": 1,
+  "favourite": []
 },
 {
   "_id": {
@@ -1745,6 +1746,433 @@
   },
   "updatedAt": {
     "$date": "2025-10-14T06:44:09.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69782229d732ce33d5a5c65a"
+  },
+  "name": "NIKE ZOOM MERCURIAL VAPOR 16 PRO TF - FQ8687",
+  "category": {
+    "$oid": "697821b4d732ce33d5a5c248"
+  },
+  "price": 1650000,
+  "discount": 15,
+  "description": "<p>Giày đá bóng Nike Air Zoom Mercurial Vapor 16 Pro TF là phiên bản cao cấp (Pro) chuyên sân cỏ nhân tạo, ra mắt năm 2024, nổi bật với trọng lượng siêu nhẹ (khoảng <img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\">238g−240g238 g minus 240 g), chất liệu Flyknit ôm chân, công nghệ ACC kiểm soát bóng, đệm Air Zoom đàn hồi và đế đinh hình thoi mới cho độ bám sân tối ưu.&nbsp;<strong>Các đặc điểm nổi bật của Vapor 16 Pro:</strong>&nbsp;<strong>Thiết kế &amp; Chất liệu:</strong> Sử dụng vật liệu Flyknit mềm mại, ôm chân thoải mái, thường thấy trên bản cao cấp Elite, phủ thêm lớp silicon dễ dàng vệ sinh. Upper được gia cố mỏng, nhẹ và thoáng khí.<strong>Công nghệ nổi bật:</strong><a href=\"https://www.google.com/search?q=Zoom+Air&amp;oq=m%C3%B4+t%E1%BA%A3+gi%C3%A0y+vapor+16+pro&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTEwMDYwajBqN6gCCLACAfEFNI1t_mE3Lg4&amp;sourceid=chrome&amp;ie=UTF-8&amp;ved=2ahUKEwiD2uuE1qqSAxXnTmwGHfwhMekQgK4QegQIAxAD\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Zoom Air</strong></a><strong>:</strong> Đệm túi khí ở gót chân giúp giảm phản lực sân cứng, hỗ trợ tăng tốc, đàn hồi.<a href=\"https://www.google.com/search?q=ACC+%28All+Conditions+Control%29&amp;oq=m%C3%B4+t%E1%BA%A3+gi%C3%A0y+vapor+16+pro&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTEwMDYwajBqN6gCCLACAfEFNI1t_mE3Lg4&amp;sourceid=chrome&amp;ie=UTF-8&amp;ved=2ahUKEwiD2uuE1qqSAxXnTmwGHfwhMekQgK4QegQIAxAF\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ACC (All Conditions Control)</strong></a><strong>:</strong> Kiểm soát bóng tốt trong mọi điều kiện thời tiết.<strong>Form giày &amp; Cổ thun:</strong> Thiết kế lưỡi gà liền co giãn tốt, phù hợp cho người có mu bàn chân cao hoặc bè, mang lại cảm giác ôm chặt nhưng thoải mái.<strong>Đế đinh TF:</strong> Sử dụng đinh hình thoi (trước đây là elip) bằng cao su cao cấp, cải thiện khả năng bám sân, xoay trở và bứt tốc, rất phù hợp với sân cỏ nhân tạo 5-7 người.<strong>Phong cách:</strong> Hướng tới tốc độ, tấn công, rê dắt và sút bóng, được nhiều cầu thủ chuyên nghiệp đại diện như Bruno Fernandes, Rashford.&nbsp;<strong>Thông số kỹ thuật:</strong>&nbsp;<strong>Dòng:</strong> <a href=\"https://thegioibongda.net/vapor-16-pro-tf-pc566117.html\" rel=\"noopener noreferrer\" target=\"_blank\">Mercurial Vapor 16 Pro</a> (thấp cổ).<strong>Mặt sân:</strong> Cỏ nhân tạo (TF).<strong>Năm ra mắt:</strong> 2024 (ví dụ bộ sưu tập Mad Voltage, Scary Good).&nbsp;Vapor 16 Pro được xem là lựa chọn hàng đầu cho lối chơi tốc độ với mức giá hợp lý hơn so với phiên bản cao nhất (Elite) nhưng vẫn đảm bảo đầy đủ các tính năng ưu việt</p>",
+  "colors": [
+    {
+      "name": "Xanh Neon",
+      "images": "1769480860079.jpg",
+      "_id": {
+        "$oid": "69bb7362df6c98cc01e8fa98"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "size": "44",
+      "stock": 6,
+      "_id": {
+        "$oid": "69bb7362df6c98cc01e8fa99"
+      }
+    },
+    {
+      "size": "43",
+      "stock": 12,
+      "_id": {
+        "$oid": "69bb7362df6c98cc01e8fa9a"
+      }
+    },
+    {
+      "size": "40",
+      "stock": 7,
+      "_id": {
+        "$oid": "69bb7362df6c98cc01e8fa9b"
+      }
+    },
+    {
+      "size": "41",
+      "stock": 3,
+      "_id": {
+        "$oid": "69bb7362df6c98cc01e8fa9c"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "status": "active",
+  "productRelated": [],
+  "previewProduct": [],
+  "favourite": [],
+  "createdAt": {
+    "$date": "2026-01-27T02:25:45.984Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T03:54:10.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69786552c5f2014db45166df"
+  },
+  "name": "ADIDAS PREDATOR 25 LEAGUE LƯỠI GÀ LẬT TF - JQ1072",
+  "category": {
+    "$oid": "697821b4d732ce33d5a5c248"
+  },
+  "price": 1000000,
+  "discount": 25,
+  "description": "<p>Giày bóng đá Adidas Predator 25 TF (thế hệ 2025)&nbsp;là dòng giày kiểm soát bóng sân cỏ nhân tạo (5-7 người) cao cấp, nổi bật với công nghệ Strikeskin (gai cao su 3D) ở má trong, tăng độ xoáy và kiểm soát bóng. Sản phẩm sử dụng upper HybridTouch nhẹ, êm ái cùng bộ đệm Lightstrike đàn hồi, mang lại sự linh hoạt, thoải mái, phù hợp cho lối chơi kỹ thuật và kiểm soát.&nbsp;</p><p><strong>Đặc điểm chi tiết của Predator 25 TF:</strong></p><ul><li><strong>Thiết kế &amp; Công nghệ:</strong>&nbsp;Upper cải tiến kết hợp da tổng hợp và chất liệu foil, mang lại cảm giác bóng thật chân.</li><li><strong>StrikeSkin (Gai nổi):</strong>&nbsp;Hệ thống vân cao su 3D được tinh chỉnh, tập trung ở mu và má trong, tối ưu hóa các pha chuyền, sút, tạo độ ma sát cao.</li><li><strong>Bộ đệm Lightstrike:</strong>&nbsp;Thay thế EVA thông thường, giúp êm ái, giảm phản lực từ mặt sân nhân tạo, hỗ trợ tăng tốc.</li><li><strong>Đế ngoài TF:</strong>&nbsp;Sử dụng đinh cao su hình tam giác, tăng độ bám, ổn định khi di chuyển.</li><li><strong>Lưỡi gà &amp; Cổ giày:</strong>&nbsp;Thiết kế lưỡi gà rời mềm mỏng hoặc cổ thun (tùy phiên bản), dễ xỏ chân, phù hợp cho người có mu bàn chân cao.</li><li><strong>Phù hợp:</strong>&nbsp;Tiền vệ, trung vệ, cầu thủ cần sự chính xác và ổn định.&nbsp;</li></ul>",
+  "colors": [
+    {
+      "name": "Trắng, xanh, đen",
+      "images": "1769497938544.jpg",
+      "_id": {
+        "$oid": "69bb740bdf6c98cc01e9020a"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "size": "38",
+      "stock": 44,
+      "_id": {
+        "$oid": "69bb740bdf6c98cc01e9020b"
+      }
+    },
+    {
+      "size": "42",
+      "stock": 10,
+      "_id": {
+        "$oid": "69bb740bdf6c98cc01e9020c"
+      }
+    },
+    {
+      "size": "40.5",
+      "stock": 9,
+      "_id": {
+        "$oid": "69bb740bdf6c98cc01e9020d"
+      }
+    },
+    {
+      "size": "43",
+      "stock": 3,
+      "_id": {
+        "$oid": "69bb740bdf6c98cc01e9020e"
+      }
+    },
+    {
+      "size": "44",
+      "stock": 19,
+      "_id": {
+        "$oid": "69bb740bdf6c98cc01e9020f"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "status": "active",
+  "productRelated": [],
+  "previewProduct": [],
+  "favourite": [],
+  "createdAt": {
+    "$date": "2026-01-27T07:12:18.572Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T03:56:59.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb466213d62329ac9957f0"
+  },
+  "name": "NIKE TIEMPO LEGEND 10 PRO TF - DV4336",
+  "category": {
+    "$oid": "697821b4d732ce33d5a5c248"
+  },
+  "price": 1550000,
+  "discount": 0,
+  "description": "<p>Nike Tiempo Legend 10 Pro&nbsp;là dòng giày đá bóng cao cấp (phân khúc Pro) thế hệ mới, nổi bật với da tổng hợp&nbsp;<a href=\"https://www.google.com/search?q=FlyTouch+Pro&amp;oq=m%C3%B4+t%E1%BA%A3+gi%C3%A0y+tiempo+10+pro&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDY5NjNqMGo3qAIAsAIA&amp;sourceid=chrome&amp;ie=UTF-8&amp;mstk=AUtExfAhALJC2wkf-kVNVlApBDg3N0brfmAY-6JjuN_Qf_AhJ2MNdx9O9HO7jhy-BrnpDQmjCukSkHGm8cr9qv-dlc58fxgFJKVfcRj8hlg-ok6X6qzcbd-940RMdNj_zB1gxzIe8v3QViILDbNqBasE0TWllzr3INUOwiRIbRSlvTznnmA&amp;csui=3&amp;ved=2ahUKEwiizqa-3KqTAxUjr1YBHRUSFK4QgK4QegQIARAC\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: unset;\">FlyTouch Pro</a>&nbsp;siêu mềm, nhẹ và không bị giãn, thay thế cho da tự nhiên<span style=\"color: rgb(10, 10, 10);\">. Giày có thiết kế cổ thấp, ôm chân, upper tích hợp các hạt&nbsp;</span><a href=\"https://www.google.com/search?q=Micro-dots&amp;oq=m%C3%B4+t%E1%BA%A3+gi%C3%A0y+tiempo+10+pro&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDY5NjNqMGo3qAIAsAIA&amp;sourceid=chrome&amp;ie=UTF-8&amp;mstk=AUtExfAhALJC2wkf-kVNVlApBDg3N0brfmAY-6JjuN_Qf_AhJ2MNdx9O9HO7jhy-BrnpDQmjCukSkHGm8cr9qv-dlc58fxgFJKVfcRj8hlg-ok6X6qzcbd-940RMdNj_zB1gxzIe8v3QViILDbNqBasE0TWllzr3INUOwiRIbRSlvTznnmA&amp;csui=3&amp;ved=2ahUKEwiizqa-3KqTAxUjr1YBHRUSFK4QgK4QegQIARAD\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: unset;\">Micro-dots</a><span style=\"color: rgb(10, 10, 10);\">&nbsp;hỗ trợ kiểm soát bóng, đế TF bám sân tốt, phù hợp cho cầu thủ kỹ thuật, kiểm soát bóng</span></p><p><strong>Các đặc điểm nổi bật:</strong></p><ul><li><strong>Chất liệu Upper:</strong>&nbsp;Sử dụng da kỹ thuật FlyTouch Pro mới, mang lại sự mềm mại tương đương da thật nhưng nhẹ hơn, không bị giãn quá nhiều và tăng cảm giác bóng thật.</li><li><strong>Công nghệ Kiểm soát:</strong>&nbsp;Tích hợp công nghệ ACC (All Conditions Control) giúp kiểm soát bóng ổn định trong cả điều kiện khô và ướt.</li><li><strong>Thiết kế và cảm giác:</strong>&nbsp;Bề mặt upper có các điểm micro-dots nhỏ giúp tăng độ ma sát khi chuyền, sút và rê bóng.</li><li><strong>Cổ giày và lưỡi gà:</strong>&nbsp;Cổ giày Flyknit low-cut co giãn, ôm sát cổ chân tự nhiên, lưỡi gà liền dệt, phù hợp cho người có mu bàn chân cao.</li><li><strong>Đế giày (TF):</strong>&nbsp;Đế cao su cao cấp với đinh hình eclipse, độ cao vừa phải, tối ưu độ bám và linh hoạt trên sân cỏ nhân tạo.</li><li><strong>Đệm êm:</strong>&nbsp;Trang bị bộ đệm gót và lót êm, mềm, giảm chấn thương, mang lại cảm giác thoải mái khi thi đấu lâu</li></ul><p><span style=\"color: rgb(10, 10, 10);\">Đây là đôi giày lý tưởng cho các vị trí tiền vệ trung tâm, hậu vệ hoặc cầu thủ ưa thích lối chơi kiểm soát bóng, cần sự ổn định và êm ái.</span></p>",
+  "colors": [
+    {
+      "name": "xám,cam",
+      "images": "1773880930178.jpg",
+      "_id": {
+        "$oid": "69bb7435df6c98cc01e902e9"
+      }
+    },
+    {
+      "name": "xanh dương",
+      "images": "1773880930194.jpg",
+      "_id": {
+        "$oid": "69bb7435df6c98cc01e902ea"
+      }
+    },
+    {
+      "name": "xanh lá neon",
+      "images": "1773880930198.jpg",
+      "_id": {
+        "$oid": "69bb7435df6c98cc01e902eb"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "size": "39",
+      "stock": 12,
+      "_id": {
+        "$oid": "69bb7435df6c98cc01e902ec"
+      }
+    },
+    {
+      "size": "40",
+      "stock": 7,
+      "_id": {
+        "$oid": "69bb7435df6c98cc01e902ed"
+      }
+    },
+    {
+      "size": "41",
+      "stock": 5,
+      "_id": {
+        "$oid": "69bb7435df6c98cc01e902ee"
+      }
+    },
+    {
+      "size": "42",
+      "stock": 15,
+      "_id": {
+        "$oid": "69bb7435df6c98cc01e902ef"
+      }
+    },
+    {
+      "size": "43",
+      "stock": 20,
+      "_id": {
+        "$oid": "69bb7435df6c98cc01e902f0"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "status": "active",
+  "productRelated": [],
+  "previewProduct": [],
+  "favourite": [],
+  "createdAt": {
+    "$date": "2026-03-19T00:42:10.393Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T03:57:41.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb476613d62329ac995fc3"
+  },
+  "name": "NIKE PHANTOM 6 LOW PRO TF - HJ4123",
+  "category": {
+    "$oid": "697821b4d732ce33d5a5c248"
+  },
+  "price": 2450000,
+  "discount": 20,
+  "description": "<p>Nike Phantom 6 Pro TF (2025-2026)&nbsp;là dòng giày cao cấp dành cho sân cỏ nhân tạo, nổi bật với upper Flyknit phủ VNMSkin siêu mềm, tăng cảm giác bóng dính<span style=\"color: rgb(10, 10, 10);\">. Giày tích hợp đệm ReactX êm ái, hệ thống dây lệch, và đinh TF thế hệ mới, tối ưu cho tiền vệ/tiền đạo cần kiểm soát, chuyền bóng và xoay sở nhanh trong không gian hẹp</span></p><p><strong>﻿Các đặc điểm chi tiết của Nike Phantom 6 Pro TF:</strong></p><ul><li><strong>Chất liệu Upper (Thân giày):</strong>&nbsp;Sự kết hợp giữa sợi Flyknit dệt cao cấp và lớp phủ&nbsp;<strong>VNMSkin</strong>&nbsp;(dựa trên công nghệ Gripknit) mang lại cảm giác bóng thật, tăng ma sát khi rê dắt và dứt điểm.</li><li><strong>Công nghệ đệm:</strong>&nbsp;Sử dụng bộ đệm&nbsp;<strong>ReactX</strong>&nbsp;mới, cải tiến hơn 13% độ phản hồi năng lượng so với đệm React truyền thống, giúp giảm chấn và hỗ trợ di chuyển linh hoạt.</li><li><strong>Thiết kế:</strong>&nbsp;Dạng cổ thấp (Low Cut) với lưỡi gà liền (one-piece) và hệ thống dây bất đối xứng, tạo vùng tiếp xúc bóng rộng, tối ưu cho các pha sút mu hoặc kiến tạo.</li><li><strong>Đế giày (Outsole):</strong>&nbsp;Bộ đinh TF thế hệ mới, kết hợp đinh trụ tròn ở mũi/gót để xoay chuyển và đinh hình quả trám lớn bên trong, giúp bám sân, ổn định và linh hoạt trên sân cỏ nhân tạo.</li><li><strong>Trọng lượng:</strong>&nbsp;Tương đối nhẹ (khoảng ~175g - 185g cho size phổ thông), hỗ trợ tốc độ cao.</li><li><strong>Phù hợp:</strong>&nbsp;Cầu thủ kỹ thuật, vị trí tiền vệ tấn công hoặc tiền đạo, chân thon đến bè vừa.&nbsp;</li></ul>",
+  "colors": [
+    {
+      "name": "xanh lá neon",
+      "images": "1773881190216.jpg",
+      "_id": {
+        "$oid": "69bb7453df6c98cc01e903cc"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "size": "40",
+      "stock": 10,
+      "_id": {
+        "$oid": "69bb7453df6c98cc01e903cd"
+      }
+    },
+    {
+      "size": "41",
+      "stock": 4,
+      "_id": {
+        "$oid": "69bb7453df6c98cc01e903ce"
+      }
+    },
+    {
+      "size": "42",
+      "stock": 15,
+      "_id": {
+        "$oid": "69bb7453df6c98cc01e903cf"
+      }
+    },
+    {
+      "size": "43",
+      "stock": 20,
+      "_id": {
+        "$oid": "69bb7453df6c98cc01e903d0"
+      }
+    },
+    {
+      "size": "44",
+      "stock": 12,
+      "_id": {
+        "$oid": "69bb7453df6c98cc01e903d1"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "status": "active",
+  "productRelated": [],
+  "previewProduct": [],
+  "favourite": [],
+  "createdAt": {
+    "$date": "2026-03-19T00:46:30.241Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T03:58:11.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb48b913d62329ac996264"
+  },
+  "name": "NIKE ZOOM MERCURIAL VAPOR 16 ACADEMY KM TF - FQ8384",
+  "category": {
+    "$oid": "697821b4d732ce33d5a5c248"
+  },
+  "price": 1150000,
+  "discount": 0,
+  "description": "<p>Nike Zoom Mercurial Vapor 16 Academy TF<span style=\"color: rgb(10, 10, 10);\">&nbsp;</span>là giày bóng đá sân cỏ nhân tạo (5-7 người) tầm trung, ra mắt cuối 2024-2025, tối ưu cho tốc độ<span style=\"color: rgb(10, 10, 10);\">. Nổi bật với upper da tổng hợp&nbsp;</span><a href=\"https://www.google.com/search?q=NikeSkin&amp;sca_esv=130bc29f65ae38a3&amp;biw=1536&amp;bih=703&amp;sxsrf=ANbL-n5Wt4DXcSUeMJawzk7zZmYLPh5eAA%3A1773881115211&amp;ei=G0e7afW5DMPf2roP3P-P2Qk&amp;oq=m%C3%B4+t%E1%BA%A3+gi%C3%A0y+16+aca&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiFW3DtCB04bqjIGdpw6B5IDE2IGFjYSoCCAMyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSLczUOIOWI8mcAl4AZABApgBgAGgAc4IqgEDMS45uAEByAEA-AEBmAIRoALIB8ICChAAGEcY1gQYsAPCAgcQIRgKGKABmAMAiAYBkAYIkgcDOS44oAfxILIHAzAuOLgHoQfCBwYwLjEyLjXIBy2ACAE&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfDp4GrFP_Du0DcShiYTL5sUv0c1wh-cMbZd0nuiMnQvijpZryrbhzvm-WhRdhfJ11Mfn86FZHdIn05YwpCQtJSWhiZedcOw7eI8Uw-xczCKrfXUrUf_L88FK89u_5Y-YnxXPWdnTjs_xq6N-bmazzL_jSBpP8OJwiLX9IxBsyoxulglLsKL3hMEpIFh7AWzpJur7NSvddh0zQWjlhCsbz4cjrAgLWRwcb0ct7LTwxYS04aGl2HszxyUnRycaXvO6i9L_j4u6AOYY7zHNeFB1kOv&amp;csui=3&amp;ved=2ahUKEwi-i_6c36qTAxUU4zQHHcwDM6UQgK4QegQIARAC\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: unset;\">NikeSkin</a><span style=\"color: rgb(10, 10, 10);\">&nbsp;mềm nhẹ, đệm&nbsp;</span><a href=\"https://www.google.com/search?q=Air+Zoom&amp;sca_esv=130bc29f65ae38a3&amp;biw=1536&amp;bih=703&amp;sxsrf=ANbL-n5Wt4DXcSUeMJawzk7zZmYLPh5eAA%3A1773881115211&amp;ei=G0e7afW5DMPf2roP3P-P2Qk&amp;oq=m%C3%B4+t%E1%BA%A3+gi%C3%A0y+16+aca&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiFW3DtCB04bqjIGdpw6B5IDE2IGFjYSoCCAMyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSLczUOIOWI8mcAl4AZABApgBgAGgAc4IqgEDMS45uAEByAEA-AEBmAIRoALIB8ICChAAGEcY1gQYsAPCAgcQIRgKGKABmAMAiAYBkAYIkgcDOS44oAfxILIHAzAuOLgHoQfCBwYwLjEyLjXIBy2ACAE&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfDp4GrFP_Du0DcShiYTL5sUv0c1wh-cMbZd0nuiMnQvijpZryrbhzvm-WhRdhfJ11Mfn86FZHdIn05YwpCQtJSWhiZedcOw7eI8Uw-xczCKrfXUrUf_L88FK89u_5Y-YnxXPWdnTjs_xq6N-bmazzL_jSBpP8OJwiLX9IxBsyoxulglLsKL3hMEpIFh7AWzpJur7NSvddh0zQWjlhCsbz4cjrAgLWRwcb0ct7LTwxYS04aGl2HszxyUnRycaXvO6i9L_j4u6AOYY7zHNeFB1kOv&amp;csui=3&amp;ved=2ahUKEwi-i_6c36qTAxUU4zQHHcwDM6UQgK4QegQIARAD\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: unset;\">Air Zoom</a><span style=\"color: rgb(10, 10, 10);\">&nbsp;êm ái, đế cao su đinh dăm hình thoi bám sân, phù hợp cho lối chơi tấn công, kỹ thuật</span></p><p><strong>Đặc điểm chi tiết:</strong></p><ul><li><strong>Chất liệu Upper:</strong>&nbsp;Da tổng hợp Nikeskin bền bỉ, mỏng nhẹ, tăng cảm giác bóng, tích hợp kết cấu hỗ trợ kiểm soát bóng tốt hơn.</li><li><strong>Bộ đệm Air Zoom:</strong>&nbsp;Đặt ở gót chân giúp giảm phản lực, tăng đàn hồi và hỗ trợ tăng tốc.</li><li><strong>Đế ngoài TF:</strong>&nbsp;Cao su cao cấp với thiết kế đinh dăm hình thoi, bám sân tốt, hỗ trợ xoay chuyển linh hoạt.</li><li><strong>Form giày:</strong>&nbsp;Ôm chân (giống các dòng Mercurial trước), lý tưởng cho người có chân thon hoặc chân bè vừa.</li><li><strong>Trọng lượng:</strong>&nbsp;Nhẹ (khoảng 240-245g cho size 41), tối ưu cho lối chơi tốc độ</li></ul><p><span style=\"color: rgb(10, 10, 10);\">Các phiên bản phổ biến thường có thiết kế nổi bật (như các bộ sưu tập Max Voltage, KM), là lựa chọn phù hợp cho các trận đấu cường độ cao, yêu cầu sự linh hoạt và nhanh nhẹn</span></p>",
+  "colors": [
+    {
+      "name": "cam mbappe",
+      "images": "1773881529907.jpg",
+      "_id": {
+        "$oid": "69bb73dfdf6c98cc01e90127"
+      }
+    },
+    {
+      "name": "hồng",
+      "images": "1773881529910.jpg",
+      "_id": {
+        "$oid": "69bb73dfdf6c98cc01e90128"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "size": "38",
+      "stock": 5,
+      "_id": {
+        "$oid": "69bb73dfdf6c98cc01e90129"
+      }
+    },
+    {
+      "size": "39",
+      "stock": 2,
+      "_id": {
+        "$oid": "69bb73dfdf6c98cc01e9012a"
+      }
+    },
+    {
+      "size": "40",
+      "stock": 6,
+      "_id": {
+        "$oid": "69bb73dfdf6c98cc01e9012b"
+      }
+    },
+    {
+      "size": "41",
+      "stock": 10,
+      "_id": {
+        "$oid": "69bb73dfdf6c98cc01e9012c"
+      }
+    },
+    {
+      "size": "42",
+      "stock": 12,
+      "_id": {
+        "$oid": "69bb73dfdf6c98cc01e9012d"
+      }
+    },
+    {
+      "size": "43",
+      "stock": 21,
+      "_id": {
+        "$oid": "69bb73dfdf6c98cc01e9012e"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "status": "active",
+  "productRelated": [],
+  "previewProduct": [],
+  "favourite": [],
+  "createdAt": {
+    "$date": "2026-03-19T00:52:09.940Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T03:56:15.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb497b13d62329ac996685"
+  },
+  "name": "MIZUNO ALPHA 3 PRO AS - P1GD266425",
+  "category": {
+    "$oid": "697821b4d732ce33d5a5c248"
+  },
+  "price": 1350000,
+  "discount": 0,
+  "description": "<p>Mizuno Alpha 3 Pro AS TF (ra mắt 2026)&nbsp;là dòng giày bóng đá sân cỏ nhân tạo cao cấp, tối ưu tốc độ với trọng lượng siêu nhẹ và form thon gọn<span style=\"color: rgb(10, 10, 10);\">. Giày nổi bật với upper da tổng hợp mềm, lưỡi gà liền Engineered Fit, đệm Mizuno Enerzy êm ái, cùng đế đinh dăm hình chữ L giúp bám sân và tăng tốc linh hoạt</span></p><p><strong>Đặc điểm nổi bật của Mizuno Alpha 3 Pro TF:</strong></p><ul><li><strong>Thiết kế &amp; Trọng lượng:</strong>&nbsp;Thiết kế hiện đại, gọn gàng, trọng lượng rất nhẹ (khoảng 245-250g), hỗ trợ tăng tốc tối đa.</li><li><strong>Upper (Thân giày):</strong>&nbsp;Sử dụng da tổng hợp cao cấp, mỏng và mềm hơn thế hệ trước, mang lại cảm giác bóng chân thật, hỗ trợ kiểm soát bóng tốt.</li><li><strong>Cấu trúc lưỡi gà:</strong>&nbsp;Dạng liền thân (Engineered Fit woven) co giãn nhẹ, ôm khít chân nhưng vẫn thoải mái, phù hợp cả người có form chân bè vừa.</li><li><strong>Đế giày &amp; Đệm:</strong>&nbsp;Bộ đệm giảm chấn&nbsp;<a href=\"https://thanhhungfutsal.com/blogs/tin-tuc/giay-da-bong-mizuno-alpha-3-hoan-toan-moi\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(26, 13, 171);\"><strong>Mizuno Enerzy</strong></a>&nbsp;(thường thấy ở bản Elite) được tích hợp, cung cấp độ êm ái và giảm áp lực lên gót chân.</li><li><strong>Đinh giày:</strong>&nbsp;Hệ thống đinh dăm (TF/AS) dạng chữ L bám sân tốt, hỗ trợ xoay trở nhanh trên mặt sân cỏ nhân tạo</li></ul><p><strong style=\"color: rgb(10, 10, 10);\">Phù hợp với ai?</strong></p><p><span style=\"color: rgb(10, 10, 10);\">Giày Mizuno Alpha 3 Pro TF phù hợp với các cầu thủ có lối chơi tốc độ, kỹ thuật, tiền vệ cánh hoặc tiền đạo, yêu thích cảm giác chắc chân và di chuyển nhanh</span></p>",
+  "colors": [
+    {
+      "name": "xanh dương",
+      "images": "1773881723460.jpg",
+      "_id": {
+        "$oid": "69bb73cfdf6c98cc01e8ff6d"
+      }
+    }
+  ],
+  "variants": [
+    {
+      "size": "42",
+      "stock": 12,
+      "_id": {
+        "$oid": "69bb73cfdf6c98cc01e8ff6e"
+      }
+    },
+    {
+      "size": "43",
+      "stock": 10,
+      "_id": {
+        "$oid": "69bb73cfdf6c98cc01e8ff6f"
+      }
+    },
+    {
+      "size": "44 ",
+      "stock": 20,
+      "_id": {
+        "$oid": "69bb73cfdf6c98cc01e8ff70"
+      }
+    }
+  ],
+  "isFeatured": false,
+  "status": "active",
+  "productRelated": [],
+  "previewProduct": [],
+  "favourite": [],
+  "createdAt": {
+    "$date": "2026-03-19T00:55:23.500Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T03:55:59.479Z"
   },
   "__v": 0
 }]

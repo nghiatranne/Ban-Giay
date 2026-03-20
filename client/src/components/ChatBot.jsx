@@ -33,7 +33,7 @@ function Chatbot() {
         const welcomeMessage = {
             _id: 'welcome',
             sender: 'bot',
-            content: '👋 Xin chào! Tôi là AI Assistant của ShoeShop. Tôi có thể giúp bạn tư vấn sản phẩm, đơn hàng và nhiều thông tin khác. Bạn cần hỗ trợ gì? 😊',
+            content: '👋 Xin chào! Tôi là AI Assistant của Mad Energy. Tôi có thể giúp bạn tư vấn sản phẩm, đơn hàng và nhiều thông tin khác. Bạn cần hỗ trợ gì? 😊',
             timestamp: new Date(),
         };
 

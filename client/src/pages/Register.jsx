@@ -220,7 +220,7 @@ function Register() {
 
                             {/* Social Login Options */}
                             <div className="text-center">
-                                <Text className="text-gray-500 text-sm">Hoặc đăng ký bằng</Text>
+                                <Text className="text-gray-500 text-sm"></Text>
                             </div>
                         </Form>
                     </div>

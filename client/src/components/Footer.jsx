@@ -34,7 +34,7 @@ Chương trình Khách Hàng Thân Thiết
                 <div>
                     <h3 className="text-white font-semibold mb-4 text-lg">Thông tin liên hệ</h3>
                     <ul className="space-y-3 text-sm">
-                        <li>📍 123 Đường Du Lịch, Hà Nội, Việt Nam</li>
+                        <li>📍 123 Đường Du Lịch, Việt Nam</li>
                         <li>📞 +84 123 456 789</li>
                         <li>✉️ support@shoeshop.com</li>
                         <li>🕒 Làm việc: 08:00 - 22:00 (T2 - CN)</li>
